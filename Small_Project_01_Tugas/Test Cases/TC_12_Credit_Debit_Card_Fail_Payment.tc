@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_12_Credit_Debit_Card_Fail_Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6360acf9-ff72-4ea7-b472-ad7283efc63a</testCaseGuid>
+</TestCaseEntity>
